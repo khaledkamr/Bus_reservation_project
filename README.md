@@ -14,7 +14,7 @@
    -This feature simply shows the buses available for reservation, and the information regarding the bus no. stored under the first feature.
 
 
-##Output
+## Output
 
 ![Screenshot 2023-09-25 224703](https://github.com/khaledkamr/Bus_reservation_project/assets/94804298/ce6c072c-c041-431d-8f90-211768f08601)
 
