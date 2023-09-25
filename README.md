@@ -6,7 +6,9 @@
 
 1.	_**Install bus information**_
 
-This feature is allowed only for the stuff, it allows you to install a typical bus information before it can be reserved by the passengers or shown in buses available. It includes the bus no., driver’s name, arrival time, departure time and destination of the bus.
+   This feature is allowed only for the stuff, it allows you to install a typical bus information before it can be reserved by the passengers or shown in buses available. It includes the bus no., driver’s name, arrival time, departure time and destination of the bus.
+
+
 1. 	_**Reservation**_
 
 this feature is very simple; it includes the bus no., seat number and the passenger’s name. The seat number of the particular bus is reserved under the passenger’s name.
