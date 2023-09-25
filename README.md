@@ -1,2 +1,3 @@
 # Bus_reservation_project
-OOP Project
+
+**This system project lets the users to reserve a bus trip and they can choose between the general bus or VIP bus.**
