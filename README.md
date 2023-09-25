@@ -11,9 +11,11 @@
 2. 	_**Reservation**_
 
 this feature is very simple; it includes the bus no., seat number and the passenger’s name. The seat number of the particular bus is reserved under the passenger’s name.
+
 3. 	_**Show Reservation Information**_
 
 with this feature, you can show all the information regarding the buses and their respective seats. It contains all the information stored by the previous two function of this project. It also enlists the no. of empty seats in a bus along with the seat number registered to a particular passenger. (Scroll down to view the output screen of this feature.)
+
 4. 	_**Buses Availability**_
    
 this feature simply shows the buses available for reservation, and the information regarding the bus no. stored under the first feature.
