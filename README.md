@@ -4,7 +4,4 @@
 
 **Basically, four features are available in this project.**
 
-1.	Install bus information
-2.	Reservation
-3.	Show reservation information
-4.	Buses availability
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
