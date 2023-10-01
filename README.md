@@ -4,6 +4,8 @@
 
 **Basically, four features are available in this project.**
 
+
+
 1.	_**Install bus information**_
 
   This feature is allowed only for the stuff, it allows you to install a typical bus information before it can be reserved by the passengers or shown in buses available. It includes the bus no., driver’s name, arrival time, departure time and destination of the bus.
